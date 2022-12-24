@@ -607,7 +607,7 @@ img {
 .section_about {
   padding: 6rem 0 2rem !important;
 }
-.nav__img{
+.nav__img {
   width: 100px;
   align-self: center;
   margin-top: var(--mb-2);
